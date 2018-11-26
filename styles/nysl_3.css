@@ -1,0 +1,201 @@
+body {
+    margin: 0px;
+}
+
+.menu {
+    position: absolute;
+    top: 485px;
+    margin-left: 30px;
+}
+
+.menu a {
+    color: forestgreen;
+    display: block;
+    width: auto;
+    padding-bottom: 50px;
+    text-decoration: none;
+
+
+
+}
+
+.menu li {
+
+    list-style-type: none;
+}
+
+.logo {
+    z-index: 1;
+    position: absolute;
+    left: 35px;
+    top: 310px;
+    width: 140px;
+}
+
+.soccerimage1 {
+    width: 100%;
+    height: 350px;
+    background-image: url(../images/design1_image1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.NYSLtitle {
+    width: 80%;
+    position: absolute;
+    margin-top: 0.2em;
+    margin-left: 0.2em;
+    color: lawngreen;
+    font-size: 30pt
+}
+
+.subtitles {
+
+    font-size: 25pt;
+    display: block;
+    top: 490px;
+    width: 100%;
+    text-align: center;
+    background-color: limegreen;
+    color: darkgreen;
+}
+
+.subtitles h2 {
+    margin: 0;
+}
+
+.indent {
+    padding-left: 25px;
+}
+
+.text {
+    overflow: hidden;
+    margin-left: 200px;
+    margin-top: 80px
+}
+
+.text p:nth-child(odd) {
+    font-style: italic;
+}
+
+.text2 {
+    margin-left: 200px;
+    margin-top: 94px;
+
+
+}
+
+.active {
+    color: greenyellow !important;
+}
+
+.active2 {
+    color: mediumseagreen !important;
+}
+
+.active3 {
+    color: lawngreen !important;
+}
+
+h2 {
+    margin: 0px;
+}
+
+.rules {
+    margin-left: 150px;
+    margin-top: 30px;
+}
+.rules li{
+/*
+    list-style: none;
+*/
+}
+
+.gameschedule {
+    margin-left: 410px;
+    margin-top: 100px;
+    margin:auto;
+    width:60%;
+    text-align: center;
+    padding-left: 300px;
+}
+
+.gameschedule td {
+    padding: 0px 20px 0 0;
+    text-align: left;
+    padding-right: 40px;
+
+}
+
+.gameschedule td:nth-last-child(4) {
+    text-align: center;
+
+}
+
+.gameschedule #september th, #october th {
+    text-align: left;
+    text-decoration: underline;
+    padding-right: 60px;
+    
+}
+
+#october th:first-child,
+#september th:first-child {
+    width: 110px;
+}
+
+#GamesLocations tr > td {
+   padding-right: 50px;
+    
+}
+
+tr td:first-child {
+  
+}
+.email{
+    display: flex;
+    justify-content: space-between;
+    
+}
+#GamesLocations th {text-align: left;
+margin-bottom: 300%;}
+span{font-weight: bold;}
+#footer{
+    width:60%;
+    margin-top:6%;
+    padding-left: 30%
+    
+} 
+#GamesLocations{
+    padding-top: 30px;
+}
+#september{margin-top: 80px;
+    
+}
+#october{margin-top: 20px;
+}
+.personal_information{
+justify-content:space-between
+}
+
+.registrationContainer{
+    width: 70%;
+    margin: auto;
+    padding-left: 10%;
+    padding-top:30px;
+}
+.registrationContainer form>div{
+    padding: 20px;
+    padding-bottom: 10px;
+}
+
+.schoolnearyou2{
+    display: flex;
+    justify-content: space-between;
+    width: 40%;
+}
+.positions2{
+    display: flex;
+    justify-content:space-between;
+    width: 30%
+}

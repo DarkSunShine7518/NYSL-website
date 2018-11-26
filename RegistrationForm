@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <link rel="stylesheet" href="styles/nysl_3.css">
+    <meta charset="utf-8">
+    <title>Home</title>
+</head>
+
+<body>
+    <header>
+        <h1 class="NYSLtitle">Northside Youth Soccer League</h1>
+
+
+        <div class="soccerimage1">
+        </div>
+        <div class="subtitles">
+            <h2>Rules of Play and Policies</h2>
+        </div>
+        <img class="logo" src="images/nysl_logo.png" alt="logo" />
+        <nav class="menu">
+
+            <ul>
+                <li>
+                    <a class="active" href="index.html">Home</a> </li>
+                <li><a href="about.html">About NYSL</a> </li>
+                <li>
+                    <a href="contact.html">Contact</a>
+                    <a href="rules.html">Rules</a>
+                    <a href="game_info.html">Game Info</a>
+                </li>
+            </ul>
+        </nav>
+    </header>
